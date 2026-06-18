@@ -91,22 +91,29 @@ Key charts produced:
 | Top Diagnoses | Heart Failure (428) is most common primary diagnosis (6,853 patients) |
 
 ### EDA Charts
+
 Chart 1:
+
 <img width="1122" height="653" alt="Screenshot 2026-06-18 131819" src="https://github.com/user-attachments/assets/35583185-4143-4e4d-ab90-4b41de192244" />
 
 Chart 2:
+
 <img width="682" height="425" alt="Screenshot 2026-06-18 131942" src="https://github.com/user-attachments/assets/58004fae-ec0f-45cb-ad72-ab246c9fda59" />
 
 Chart 3:
+
 <img width="947" height="588" alt="Screenshot 2026-06-18 132048" src="https://github.com/user-attachments/assets/26c3c1c0-518a-432a-bcc8-a4b1493bb023" />
 
 Chart 4:
+
 <img width="1148" height="467" alt="Screenshot 2026-06-18 132140" src="https://github.com/user-attachments/assets/50076fbb-c383-4606-af9e-c27fd7e17250" />
 
 Chart 5:
+
 <img width="952" height="593" alt="Screenshot 2026-06-18 132201" src="https://github.com/user-attachments/assets/78d7fef9-6778-4a9f-b885-3f052faebea7" />
 
 Chart 6:
+
 <img width="1121" height="652" alt="Screenshot 2026-06-18 132231" src="https://github.com/user-attachments/assets/46a36b59-fc74-4da7-afdd-bfbb0c7cc1a5" />
 
 ---
@@ -140,7 +147,8 @@ Chained CTEs + `CASE WHEN`
 ## 📉 Phase 4 — Power BI Dashboard (3 Pages)
 
 ### Page 1 — Executive Overview
-<img width="1122" height="653" alt="Screenshot 2026-06-18 131819" src="https://github.com/user-attachments/assets/2da711d8-7f28-45a5-85bf-dfe912d1db8a" />
+<img width="1282" height="721" alt="Screenshot 2026-06-17 155022" src="https://github.com/user-attachments/assets/a9a63af9-b4e9-4a14-a101-66bfd9c88dc9" />
+
 
 - Total Patients: 100,241
 - Overall Readmission Rate: 46.31%
