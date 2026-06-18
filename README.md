@@ -91,9 +91,22 @@ Key charts produced:
 | Top Diagnoses | Heart Failure (428) is most common primary diagnosis (6,853 patients) |
 
 ### EDA Charts
+Chart 1:
+<img width="1122" height="653" alt="Screenshot 2026-06-18 131819" src="https://github.com/user-attachments/assets/35583185-4143-4e4d-ab90-4b41de192244" />
+Chart 2:
+<img width="682" height="425" alt="Screenshot 2026-06-18 131942" src="https://github.com/user-attachments/assets/58004fae-ec0f-45cb-ad72-ab246c9fda59" />
 
-![Age vs Readmission](EDA_Findings/chart1_age_readmission.png)
-![Hospital Stay](EDA_Findings/chart3_hospital_stay.png)
+Chart 3:
+<img width="947" height="588" alt="Screenshot 2026-06-18 132048" src="https://github.com/user-attachments/assets/26c3c1c0-518a-432a-bcc8-a4b1493bb023" />
+
+Chart 4:
+<img width="1148" height="467" alt="Screenshot 2026-06-18 132140" src="https://github.com/user-attachments/assets/50076fbb-c383-4606-af9e-c27fd7e17250" />
+
+Chart 5:
+<img width="952" height="593" alt="Screenshot 2026-06-18 132201" src="https://github.com/user-attachments/assets/78d7fef9-6778-4a9f-b885-3f052faebea7" />
+
+Chart 6:
+<img width="1121" height="652" alt="Screenshot 2026-06-18 132231" src="https://github.com/user-attachments/assets/46a36b59-fc74-4da7-afdd-bfbb0c7cc1a5" />
 
 ---
 
@@ -126,7 +139,8 @@ Chained CTEs + `CASE WHEN`
 ## 📉 Phase 4 — Power BI Dashboard (3 Pages)
 
 ### Page 1 — Executive Overview
-![Dashboard Page 1](Dashboard_Screenshots/Page1.png)
+
+
 - Total Patients: 100,241
 - Overall Readmission Rate: 46.31%
 - Avg Hospital Stay: 4.42 days
@@ -134,13 +148,15 @@ Chained CTEs + `CASE WHEN`
 - Cumulative readmission trend by age
 
 ### Page 2 — Patient Demographics & Risk Profile
-![Dashboard Page 2](Dashboard_Screenshots/Page2.png)
+<img width="1281" height="720" alt="Screenshot 2026-06-17 155120" src="https://github.com/user-attachments/assets/cc94acc8-d355-4b45-b143-d1abda21a1d8" />
+
 - Readmission rate by age group (bar chart)
 - Top 3 high risk age groups by race (matrix table)
 - Interactive gender and readmission status slicers
 
 ### Page 3 — Treatment Patterns & Hospital Stay
-![Dashboard Page 3](Dashboard_Screenshots/Page3.png)
+<img width="1277" height="717" alt="Screenshot 2026-06-17 155203" src="https://github.com/user-attachments/assets/fc363653-505d-49df-8ef2-75bdd1ca0ad3" />
+
 - Hospital stay duration vs readmission rate (combo chart)
 - Smoothed readmission trend using moving average
 - Top 10 primary diagnoses
@@ -207,6 +223,6 @@ Chained CTEs + `CASE WHEN`
 ## 👤 Author
 
 **Anurag Chawla**
-- LinkedIn: [anurag-chawla](https://linkedin.com/in/anurag-chawla)
-- GitHub: [anuragchawla27](https://github.com/anuragchawla27)
+- LinkedIn: www.linkedin.com/in/anurag-chawla-4a0786220
+- GitHub: https://github.com/anuragchawla27
 - Email: anuragchawla7777@gmail.com
