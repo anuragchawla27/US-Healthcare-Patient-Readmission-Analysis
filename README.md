@@ -93,6 +93,7 @@ Key charts produced:
 ### EDA Charts
 Chart 1:
 <img width="1122" height="653" alt="Screenshot 2026-06-18 131819" src="https://github.com/user-attachments/assets/35583185-4143-4e4d-ab90-4b41de192244" />
+
 Chart 2:
 <img width="682" height="425" alt="Screenshot 2026-06-18 131942" src="https://github.com/user-attachments/assets/58004fae-ec0f-45cb-ad72-ab246c9fda59" />
 
@@ -139,7 +140,7 @@ Chained CTEs + `CASE WHEN`
 ## 📉 Phase 4 — Power BI Dashboard (3 Pages)
 
 ### Page 1 — Executive Overview
-
+<img width="1122" height="653" alt="Screenshot 2026-06-18 131819" src="https://github.com/user-attachments/assets/2da711d8-7f28-45a5-85bf-dfe912d1db8a" />
 
 - Total Patients: 100,241
 - Overall Readmission Rate: 46.31%
