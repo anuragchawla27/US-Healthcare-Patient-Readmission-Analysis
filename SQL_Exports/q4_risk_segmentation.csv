@@ -1,0 +1,4 @@
+risk_category,total_patients,total_readmitted,readmission_pct
+"Very High Risk",3087,2117,68.58
+"High Risk",25767,15803,61.33
+Normal,71387,28503,39.93
